@@ -19,11 +19,7 @@ namespace CalculatorTests
             Assert.AreEqual(3, calculator.Add(1, 2));
         }
 
-        [Test]
-        public void Add_FailCase()
-        {
-            Assert.AreEqual(4, calculator.Add(1, 2));
-        }
+       
 
         [Test]
         public void Sub_PassCase()
@@ -31,11 +27,6 @@ namespace CalculatorTests
             Assert.AreEqual(-1, calculator.Sub(1, 2));
         }
 
-        [Test]
-        public void Sub_FailCase()
-        {
-            Assert.AreEqual(1, calculator.Sub(1, 2));
-        }
 
         [Test]
         public void Prod_PassCase()
@@ -44,21 +35,10 @@ namespace CalculatorTests
         }
 
         [Test]
-        public void Prod_FailCase()
-        {
-            Assert.AreEqual(3, calculator.Prod(1, 2));
-        }
-
-        [Test]
         public void Div_PassCase()
         {
             Assert.AreEqual(0, calculator.Div(1, 2));
         }
 
-        [Test]
-        public void Div_FailCase()
-        {
-            Assert.AreEqual(1, calculator.Div(1, 2));
-        }
     }
 }
