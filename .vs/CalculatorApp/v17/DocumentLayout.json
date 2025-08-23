@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Calculator-App\\CalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3BBDE19-2E58-4429-A655-31F5A0EA70C5}|Calculator.Test\\Calculator.Test.csproj|d:\\calculator-app\\calculatorapp\\calculator.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3BBDE19-2E58-4429-A655-31F5A0EA70C5}|Calculator.Test\\Calculator.Test.csproj|solutionrelative:calculator.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E73FB68-00F6-42CC-B59D-3831B770D368}|CalculatorApp\\CalculatorApp.csproj|d:\\calculator-app\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E73FB68-00F6-42CC-B59D-3831B770D368}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3BBDE19-2E58-4429-A655-31F5A0EA70C5}|Calculator.Test\\Calculator.Test.csproj|d:\\calculator-app\\calculatorapp\\calculator.test\\calculator.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D3BBDE19-2E58-4429-A655-31F5A0EA70C5}|Calculator.Test\\Calculator.Test.csproj|solutionrelative:calculator.test\\calculator.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E73FB68-00F6-42CC-B59D-3831B770D368}|CalculatorApp\\CalculatorApp.csproj|d:\\calculator-app\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E73FB68-00F6-42CC-B59D-3831B770D368}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3BBDE19-2E58-4429-A655-31F5A0EA70C5}|Calculator.Test\\Calculator.Test.csproj|d:\\calculator-app\\calculatorapp\\calculator.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BBDE19-2E58-4429-A655-31F5A0EA70C5}|Calculator.Test\\Calculator.Test.csproj|solutionrelative:calculator.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculator.Test",
-              "DocumentMoniker": "D:\\Calculator-App\\CalculatorApp\\Calculator.Test\\Calculator.Test.csproj",
-              "RelativeDocumentMoniker": "Calculator.Test\\Calculator.Test.csproj",
-              "ToolTip": "D:\\Calculator-App\\CalculatorApp\\Calculator.Test\\Calculator.Test.csproj",
-              "RelativeToolTip": "Calculator.Test\\Calculator.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-23T07:11:46.364Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -51,20 +38,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Calculator.Test.csproj",
+              "DocumentMoniker": "D:\\Calculator-App\\CalculatorApp\\Calculator.Test\\Calculator.Test.csproj",
+              "RelativeDocumentMoniker": "Calculator.Test\\Calculator.Test.csproj",
+              "ToolTip": "D:\\Calculator-App\\CalculatorApp\\Calculator.Test\\Calculator.Test.csproj",
+              "RelativeToolTip": "Calculator.Test\\Calculator.Test.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T07:11:46.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Calculator-App\\CalculatorApp\\Calculator.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Calculator.Test\\UnitTest1.cs",
               "ToolTip": "D:\\Calculator-App\\CalculatorApp\\Calculator.Test\\UnitTest1.cs",
               "RelativeToolTip": "Calculator.Test\\UnitTest1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T07:11:15.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T07:11:15.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Calculator-App\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
