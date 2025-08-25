@@ -17,5 +17,6 @@ public class Program
         Console.WriteLine(calculator.Sub(1, 2));
         Console.WriteLine(calculator.Prod(1, 2));
         Console.WriteLine(calculator.Div(1, 2));
+        Console.WriteLine(calculator.Div(2, 4));
     }
 }
